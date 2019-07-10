@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 28px;
+}
+.header {
+  width: 900px;
+  margin: 0 auto;
+  background-color: #2B3E51;
+  text-align: center;
+  height: 200px;
+  border-bottom: 3px solid #00BD9C;
+}
+.header h3 {
+  padding-top: 30px;
+  color: #fff;
+  text-transform: uppercase;
+}
